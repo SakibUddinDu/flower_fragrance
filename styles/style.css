@@ -95,6 +95,22 @@ section {
   width: 100%;
 }
 /* =====================
+      Features Section
+=======================*/
+.features {
+  background-color: #2727270d;
+}
+
+.features_img {
+  height: 9rem;
+  width: 9rem;
+}
+
+.feature_card {
+  text-align: center;
+}
+
+/* =====================
       Deals Section
 =======================*/
 .hot_deal_desceiption {
@@ -131,6 +147,12 @@ section {
   height: 90%;
 }
 
+/* =====================
+    flower expert Section
+=======================*/
+.flower_expert_card {
+  text-align: center;
+}
 /* =====================
     Get Updates Section
 =======================*/
@@ -188,5 +210,8 @@ footer {
   font-family: lobster;
 }
 .footer_text p {
+  color: #ffffff;
+}
+.text_white {
   color: #ffffff;
 }
